@@ -157,7 +157,7 @@ function toggle02() {
     b = 0;
     toggle3 = true;
   }
-  else if (s == 3) {
+  else if (s == 7) {
     toggle4 = true;
   }
 
